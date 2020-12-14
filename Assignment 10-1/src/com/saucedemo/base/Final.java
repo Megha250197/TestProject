@@ -18,7 +18,7 @@ public class Final {
 	static String Password="secret_sauce";
 	static String firstName="Moolya";
 	static String lastName="Testing";
-	static String postalCode = "571401";
+	static String postalCode = "560029";
 	public static void main(String[] args) throws InterruptedException
 	{
 		WebDriver driver = new ChromeDriver();
